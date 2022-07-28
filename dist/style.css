@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  height: 100px;
+}
+
+.container {
+  justify-content: space-evenly;
+  display: flex;
+}
