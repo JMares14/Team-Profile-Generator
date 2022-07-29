@@ -12,7 +12,7 @@ Node.js command-line application that takes in information about employees on a 
 Node.js required. For testing jest and inquire nmp modules required
 ## Usage 
 Use inquirer by typing `node index.js` into the console then answer questions about your project.
-View walk through video here - [Screencastify](...)<br>
+View walk through video here - [Screencastify](https://drive.google.com/file/d/1_vyDDXovFlgYrxW2BHnsEAPv-ML7Jm8g/view)<br>
 ![image](https://user-images.githubusercontent.com/104745834/181605173-5248afb1-d5c1-422c-935b-e76a7aa9110a.png)
 
 
