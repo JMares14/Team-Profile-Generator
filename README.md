@@ -1,7 +1,7 @@
 # Team Profile Generator 
 
 ## Description 
-Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person
+A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -9,15 +9,15 @@ Node.js command-line application that takes in information about employees on a 
 * [Questions](#questions)
 
 ## Installation 
-Node.js required. For testing jest and inquire nmp modules required
+Node.js, inquire nmp module, and console.table npm module required
 ## Usage 
-Use inquirer by typing `node index.js` into the console then answer questions about your project.
-View walk through video here - [Screencastify](https://drive.google.com/file/d/1_vyDDXovFlgYrxW2BHnsEAPv-ML7Jm8g/view)<br>
-![image](https://user-images.githubusercontent.com/104745834/181605173-5248afb1-d5c1-422c-935b-e76a7aa9110a.png)
+Use inquirer by typing `node index.js` into the console then answer the prompts to build and manage the database.
+View walk through video here - [Screencastify](https://drive.google.com/file/d/1AJIMToaH6eqTBdF7mPRkXBrXcpmttqzK/view)<br>
+
 
 
 ## Tests
-Run `npm test` to run Jest for tests on constructors. 
+NONE
 
 ## Questions
 For questions contact me at georgemares14@yahoo.com 
